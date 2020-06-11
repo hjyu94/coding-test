@@ -1,0 +1,6 @@
+﻿  Source5.cpp
+C:\Users\hjeon\source\repos\Project1\Project1\Source5.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hjeon\source\repos\Project1\Project1\Source5.cpp(32,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hjeon\source\repos\Project1\Project1\Source5.cpp(47,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hjeon\source\repos\Project1\Project1\Source5.cpp(62,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project1.vcxproj -> C:\Users\hjeon\source\repos\Project1\Debug\Project1.exe

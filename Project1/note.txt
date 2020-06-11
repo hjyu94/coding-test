@@ -1,0 +1,11 @@
+- set은 기존에 존재하는 키 값이 들어오면 덮어쓰기 함
+- 테스트 케이스에 중복되는 값이 있을 수 있음 주의
+
+stack<int> test;
+test.push(0);
+test.pop();
+int what = test.top();
+
+런타임 에러
+
+map 보다는 unordered_map 쓰는게 더 빠르다

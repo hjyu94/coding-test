@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\자료">
+      <UniqueIdentifier>{f12b40fe-e10f-401f-b502-1cf57f2162ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\카카오 코테">
+      <UniqueIdentifier>{32da3c50-65ae-4080-bcef-50d33b7fbe5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\카카오 코테\2019 겨울">
+      <UniqueIdentifier>{1ce027d2-57c4-41b2-a905-b447a7422e1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\프로그래머스">
+      <UniqueIdentifier>{f11f3513-6beb-4abf-b82b-93cf89d2549e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\카카오 코테\2020 여름">
+      <UniqueIdentifier>{fd121322-e3d8-446f-8cb9-b7877f4b258a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\프로그래머스\해시">
+      <UniqueIdentifier>{5c3c85ee-7acd-452a-b061-87d64ba0ff89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\프로그래머스\정렬">
+      <UniqueIdentifier>{f3080101-4b39-4f21-a93f-4749f840ee1b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\프로그래머스\DFS/BFS">
+      <UniqueIdentifier>{0cb0c9a0-21e4-4ece-91a9-6cef8a562b64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\오답노트">
+      <UniqueIdentifier>{c6f6a01b-90ca-486f-b0be-8d15b561bad1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\자료\STL">
+      <UniqueIdentifier>{53268537-8a9c-42c9-b0ee-5d0520ed7d8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\프로그래머스\스택/큐">
+      <UniqueIdentifier>{76cc890b-86ab-4548-a67c-5fa162405f0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\프로그래머스\etc">
+      <UniqueIdentifier>{15942358-0911-4769-b7d2-0fadd83b3b81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\프로그래머스\힙">
+      <UniqueIdentifier>{90343194-4ac3-410f-bcba-e7fc3de3b958}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\프로그래머스\완전탐색">
+      <UniqueIdentifier>{12e3a92d-24e9-488d-b7b5-3ad318a78bef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\자료\Algorithm">
+      <UniqueIdentifier>{59c5636c-617e-4a5b-94d1-afbc313be740}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dfs.cpp">
+      <Filter>Source Files\자료</Filter>
+    </ClCompile>
+    <ClCompile Include="bannedcount.cpp">
+      <Filter>Source Files\카카오 코테\2019 겨울</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files\카카오 코테\2019 겨울</Filter>
+    </ClCompile>
+    <ClCompile Include="Source1.cpp">
+      <Filter>Source Files\카카오 코테\2019 겨울</Filter>
+    </ClCompile>
+    <ClCompile Include="튜플.cpp">
+      <Filter>Source Files\카카오 코테\2019 겨울</Filter>
+    </ClCompile>
+    <ClCompile Include="bfs.cpp">
+      <Filter>Source Files\자료</Filter>
+    </ClCompile>
+    <ClCompile Include="src1.cpp">
+      <Filter>Source Files\카카오 코테\2020 여름</Filter>
+    </ClCompile>
+    <ClCompile Include="src2.cpp">
+      <Filter>Source Files\카카오 코테\2020 여름</Filter>
+    </ClCompile>
+    <ClCompile Include="src3.cpp">
+      <Filter>Source Files\카카오 코테\2020 여름</Filter>
+    </ClCompile>
+    <ClCompile Include="완주하지 못한 선수.cpp">
+      <Filter>Source Files\프로그래머스\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="전화번호 목록.cpp">
+      <Filter>Source Files\프로그래머스\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="정수형 데이터 타입 범위.cpp">
+      <Filter>Source Files\자료</Filter>
+    </ClCompile>
+    <ClCompile Include="위장.cpp">
+      <Filter>Source Files\프로그래머스\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="01 vector.cpp">
+      <Filter>Source Files\자료\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="02 deque.cpp">
+      <Filter>Source Files\자료\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="03 list.cpp">
+      <Filter>Source Files\자료\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="04 set.cpp">
+      <Filter>Source Files\자료\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="05 multiset.cpp">
+      <Filter>Source Files\자료\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="06 map.cpp">
+      <Filter>Source Files\자료\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="07 multimap.cpp">
+      <Filter>Source Files\자료\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="08 stack.cpp">
+      <Filter>Source Files\자료\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="09 queue.cpp">
+      <Filter>Source Files\자료\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="10 priority_queue.cpp">
+      <Filter>Source Files\자료\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="11 sort.cpp">
+      <Filter>Source Files\자료\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="124나라.cpp">
+      <Filter>Source Files\프로그래머스\etc</Filter>
+    </ClCompile>
+    <ClCompile Include="Source2.cpp">
+      <Filter>Source Files\프로그래머스\etc</Filter>
+    </ClCompile>
+    <ClCompile Include="1 더 맵게.cpp">
+      <Filter>Source Files\프로그래머스\힙</Filter>
+    </ClCompile>
+    <ClCompile Include="2 라면 공장.cpp">
+      <Filter>Source Files\프로그래머스\힙</Filter>
+    </ClCompile>
+    <ClCompile Include="1 k번째수.cpp">
+      <Filter>Source Files\프로그래머스\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="2 가장 큰 수%28★★★%29.cpp">
+      <Filter>Source Files\프로그래머스\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="2 가장 큰 수%28다른 사람 풀이%29.cpp">
+      <Filter>Source Files\프로그래머스\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="1 탑.cpp">
+      <Filter>Source Files\프로그래머스\스택/큐</Filter>
+    </ClCompile>
+    <ClCompile Include="1 타겟 넘버%28내 풀이1%29.cpp">
+      <Filter>Source Files\프로그래머스\DFS/BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1 타겟 넘버%28내 풀이2%29.cpp">
+      <Filter>Source Files\프로그래머스\DFS/BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1 타겟 넘버%28다른 풀이%29.cpp">
+      <Filter>Source Files\프로그래머스\DFS/BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="3 h-index.cpp">
+      <Filter>Source Files\프로그래머스\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="모의고사.cpp">
+      <Filter>Source Files\프로그래머스\완전탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="3 디스크 컨트롤러%28★★★%29.cpp">
+      <Filter>Source Files\프로그래머스\힙</Filter>
+    </ClCompile>
+    <ClCompile Include="Source3.cpp">
+      <Filter>Source Files\자료\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="Source4.cpp">
+      <Filter>Source Files\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="Source5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="note.txt">
+      <Filter>Source Files\오답노트</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="macro.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
